@@ -111,3 +111,6 @@ fabric.properties
 *.iml
 modules.xml
 *.ipr
+
+# Debug routine
+src/__debug__/Main.java
